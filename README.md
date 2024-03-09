@@ -1,1 +1,1 @@
-# Reconhecimento-Facial-e-Transforma-o-de-Imagens-no-Azure-ML
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
